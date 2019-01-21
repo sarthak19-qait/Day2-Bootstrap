@@ -1,0 +1,42 @@
+body {
+    background: url(index1.jpeg);
+    background-size: cover
+}
+#log {
+    padding: 60px 40px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.pic {
+    
+    border-radius: 30px;
+    width: 150px;
+    height: 150px;
+}
+.heading {
+    margin-top: -20px; 
+    font-weight: bolder;
+    
+}
+#ui {
+    background-color: #333;
+    padding: 20px;
+    margin-top: 2px; 
+    border-radius: 10px;
+    opacity: 0.9;
+}
+.lab {
+    color: white
+}
+.headingg {
+    color: white
+}
+.footer {
+    margin-top: 93px;
+    background: #333;
+    color: white;
+    text-align: center;
+    height: 80px;
+    padding: 10px;
+}
